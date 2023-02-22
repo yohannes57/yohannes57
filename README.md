@@ -8,7 +8,7 @@
    <h2><i>My Progress from 2022-2023</i></h2>
  As a web developer with over 2 years of experience in MERN stack. I am passionate about creating beautiful and responsive websites that are easy to use and navigate. I have a strong background in web development, including expertise in React, JavaScript, Node.js, HTML, CSS, bootstrap, Mysql, Sql and other web development technologies.
 
-- 📧 ytmderes@gmail.com
+- 📧 yohannestmd7@gmail.com
 - 🔗 [yohannes deres - LinkedIn] (https://www.linkedin.com/in/yohannes-deres/)
     </section>
     <!------------------------------ Experience ------------------------------>
