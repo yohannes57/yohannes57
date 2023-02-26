@@ -16,7 +16,7 @@
       <h2><i>Experience</i></h2>
       <br>
       <p>
-      I have more than two years of working exprecience in web developmenet ,for one year  in Nile Technology a small start up company and now working as web developer in romote .
+      I have more than two years of working exprecience in web developmenet ,for one year  in Kuraz Tech a  start up company and now working as web developer in romote .
       </p>
     </section>
     <!------------------------------ Knowledge ------------------------------>
