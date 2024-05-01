@@ -1,5 +1,5 @@
 
-### Hello there, I am yohannes Deres ! 👋
+### Hello there, I am Yohannes Deres ! 👋
 
   <h1><b>Full Stack Web Developer</b></h1>
 
